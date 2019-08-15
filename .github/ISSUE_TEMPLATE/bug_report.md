@@ -7,11 +7,6 @@ assignees: ''
 
 ---
 
-**Mods (complete and add to the following information):**
-- **Arma 3:** `x.xx` [e.g. 1.00 stable, rc,  dev]
-- **CBA:** `3.x.x` [e.g. 3.0.0 stable, commit hash]
-- **ACRE2:** `2.x.x` [e.g. 2.0.0 stable, commit hash]
-
 **Description:**
 A clear and concise description of what the bug is.
 
