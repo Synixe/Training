@@ -1,0 +1,13 @@
+#include "script_component.hpp"
+#include "CfgFunctions.hpp"
+
+OnLoadName = "Synixe Training";
+onLoadMission = "Synixe Training";
+author = "Synixe Training Agency";
+
+class Header {
+	gameType = "COOP";
+	minPlayers = 1;	
+};
+
+cba_settings_hasSettingsFile = 1;  // Enables use of "cba_settings.sqf", remove if file is not present (will crash)
